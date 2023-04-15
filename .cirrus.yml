@@ -1,4 +1,4 @@
-windows_container:
+container:
   image: cirrusci/windowsservercore:2019
  env:
   CIRRUS_SHELL: powershell
